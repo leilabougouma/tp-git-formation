@@ -1,4 +1,4 @@
 function login() {
-  const usr = "admin";
-  console.log("Connexion reussie pour", usr);
+  const username = "admin";
+  console.log("Connexion reussie pour", username);
 }
