@@ -1,1 +1,1 @@
-Fonctionnalites disponibles : logout 
+Fonctionnalites disponibles : login et logout 
